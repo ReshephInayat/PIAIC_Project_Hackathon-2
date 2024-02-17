@@ -2,7 +2,6 @@ import Image from "next/image";
 import React from "react";
 
 export default function Events() {
-<<<<<<< HEAD
 return (
 <div className="h-full bg-zinc-800 w-full ">
 <h1 className="text-white text-center text-xl md:text-2xl font-bold">
@@ -100,8 +99,7 @@ className=" object-cover"
 </div>
 </section>
 </div>
-);
-=======
+)
   return (
     <div className="h-full bg-zinc-800 w-full ">
       <h1 className="text-white text-center text-xl md:text-2xl font-bold">
@@ -200,5 +198,4 @@ className=" object-cover"
       </section>
     </div>
   );
->>>>>>> 289ef26399239471200435e523366a0546fe39fe
 }
